@@ -1,21 +1,33 @@
-# 🧮 Java Calculator Project
+# 🧮 Java Calculator – Task 1
 
-This is a simple command-line Java Calculator that supports basic arithmetic operations: addition, subtraction, multiplication, and division.
+This is a simple command-line calculator written in Java as part of Task 1 for the **Elevate Labs Java** project series.  
+It supports basic arithmetic operations like addition, subtraction, multiplication, and division.
 
-## 📌 Features
+## 📁 Folder Structure
 
-- Addition (+)
-- Subtraction (−)
-- Multiplication (×)
-- Division (÷)
-- Input validation
+Calculator-Task1/
+├── Calculator_task1.java
+└── README.md
+
+
+## 🔧 Features
+
+- ✅ Addition
+- ✅ Subtraction
+- ✅ Multiplication
+- ✅ Division
+- ❌ No GUI – runs in terminal
 
 ## 🚀 How to Run
 
-1. Make sure you have **Java installed** on your system.
-2. Open terminal or command prompt.
-3. Navigate to the `Calculator` directory.
-4. Compile and run:
-   ```bash
-   javac Calculator.java
-   java Calculator
+### Prerequisites
+- Java must be installed (JDK 8 or higher)
+
+### Compile and Run
+
+Open terminal or PowerShell, then:
+
+```bash
+cd path/to/Calculator-Task1
+javac Calculator_task1.java
+java Calculator_task1
