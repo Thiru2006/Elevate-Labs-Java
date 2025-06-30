@@ -57,7 +57,21 @@ java Main
 ```
 ---
 
-<pre> <code> Enter your name: John Doe Enter initial balance: $1000 === Bank Menu === 1. Deposit 2. Withdraw 3. Check Balance 4. Transaction History 5. Exit Choose an option: 1 Enter deposit amount: $200 Deposited: $200.0 | New Balance: $1200.0 Choose an option: 2 Enter withdraw amount: $100 Withdrew: $100.0 | New Balance: $1100.0 Choose an option: 4 Transaction History for John Doe: Account created with balance: $1000.0 Deposited: $200.0 | New Balance: $1200.0 Withdrew: $100.0 | New Balance: $1100.0 </code> </pre>
+## 📸 Sample Output
+
+Enter your name: John Doe
+Enter initial balance: $1000
+
+=== Bank Menu ===
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Transaction History
+5. Exit
+Choose an option: 1
+Enter deposit amount: $200
+Deposited: $200.0 | New Balance: $1200.0
+
 ---
 
 ## 📚 Concepts Used
